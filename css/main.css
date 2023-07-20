@@ -36,7 +36,7 @@ div.menu > nav > ul > li {
 div.menu > nav > ul > li > a.one {
   text-decoration: none;
   font-family: iransans;
-  color: rgb(0, 0, 0);
+  color: blue;
 }
 div.menu > nav > ul > li > a.two {
   text-decoration: none;
